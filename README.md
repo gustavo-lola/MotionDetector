@@ -49,10 +49,11 @@ Também mostra o FPS e imprime no terminal quando o estado muda entre “MOVIMEN
 
    ```bash
    git clone https://github.com/seu-usuario/seu-repo.git
+   
 
 python3 -m venv venv
+
 source venv/bin/activate   # Linux / macOS
-# venv\Scripts\activate    # Windows
 
 pip install opencv-python numpy
 
